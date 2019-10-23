@@ -1,0 +1,41 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Multiplayer
+  name: Multiplayer
+  href: api/Multiplayer.html
+  commentId: N:Multiplayer
+  fullName: Multiplayer
+  nameWithType: Multiplayer
+- uid: Multiplayer.Meta
+  name: Meta
+  href: api/Multiplayer.Meta.html
+  commentId: T:Multiplayer.Meta
+  fullName: Multiplayer.Meta
+  nameWithType: Meta
+- uid: Multiplayer.Meta.ConstructOptionsScreen(UnityEngine.RectTransform,System.Boolean)
+  name: ConstructOptionsScreen(RectTransform, Boolean)
+  href: api/Multiplayer.Meta.html#Multiplayer_Meta_ConstructOptionsScreen_UnityEngine_RectTransform_System_Boolean_
+  commentId: M:Multiplayer.Meta.ConstructOptionsScreen(UnityEngine.RectTransform,System.Boolean)
+  fullName: Multiplayer.Meta.ConstructOptionsScreen(UnityEngine.RectTransform, System.Boolean)
+  nameWithType: Meta.ConstructOptionsScreen(RectTransform, Boolean)
+- uid: Multiplayer.Meta.ConstructOptionsScreen*
+  name: ConstructOptionsScreen
+  href: api/Multiplayer.Meta.html#Multiplayer_Meta_ConstructOptionsScreen_
+  commentId: Overload:Multiplayer.Meta.ConstructOptionsScreen
+  isSpec: "True"
+  fullName: Multiplayer.Meta.ConstructOptionsScreen
+  nameWithType: Meta.ConstructOptionsScreen
+- uid: Multiplayer.Meta.Name
+  name: Name
+  href: api/Multiplayer.Meta.html#Multiplayer_Meta_Name
+  commentId: P:Multiplayer.Meta.Name
+  fullName: Multiplayer.Meta.Name
+  nameWithType: Meta.Name
+- uid: Multiplayer.Meta.Name*
+  name: Name
+  href: api/Multiplayer.Meta.html#Multiplayer_Meta_Name_
+  commentId: Overload:Multiplayer.Meta.Name
+  isSpec: "True"
+  fullName: Multiplayer.Meta.Name
+  nameWithType: Meta.Name
