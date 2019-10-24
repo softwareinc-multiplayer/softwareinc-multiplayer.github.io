@@ -4,12 +4,21 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "../resources/docs/api/index.md",
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "lx3XjfUx9S7uf6r/yB47EA=="
+          "hash": "qL1SzpHjo6t8H4Z1lRDFyg=="
         }
       },
       "is_incremental": false,
@@ -21,7 +30,19 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "I/MBUXfUlL1VBn2WEOjiiw=="
+          "hash": "TXkC2d78oQ2O2ehgtnl5fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "../resources/docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "xcQKjTUyKlioNQMmid3yZg=="
         }
       },
       "is_incremental": false,
@@ -33,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Multiplayer.Meta.html",
-          "hash": "tr5n0RYpNB3blZ+35wmqlA=="
+          "hash": "onqO6Ykk4GcNsBMkjZ6h7g=="
         }
       },
       "is_incremental": false,
@@ -45,7 +66,19 @@
       "output": {
         ".html": {
           "relative_path": "api/Multiplayer.html",
-          "hash": "J46DtLVru93VBKFRjYNoVw=="
+          "hash": "nUINi2ljbqerZ7kPXskxrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "bZnHQEDq8gAS+E5Z+82ERQ=="
         }
       },
       "is_incremental": false,
@@ -56,11 +89,11 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Disable incremental build by force rebuild option.",
+        "details": "Cannot build incrementally because config changed.",
         "incrementalPhase": "build",
         "total_file_count": 0,
         "skipped_file_count": 0,
-        "full_build_reason_code": "ForceRebuild"
+        "full_build_reason_code": "ConfigChanged"
       },
       "processors": {
         "TocDocumentProcessor": {
@@ -87,7 +120,7 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0

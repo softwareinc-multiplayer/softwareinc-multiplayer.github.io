@@ -1,0 +1,22 @@
+{
+  "api/Multiplayer.Meta.html": {
+    "href": "api/Multiplayer.Meta.html",
+    "title": "Class Meta | Software Inc. Multiplayer",
+    "keywords": "Class Meta Inheritance Object ModMeta Meta Inherited Members ModMeta.Initialize(ModController.DLLMod) ModMeta.Serialize(GameReader.LoadMode) ModMeta.Deserialize(WriteDictionary, GameReader.LoadMode) Object.ToString() Object.Equals(Object) Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Namespace : Multiplayer Assembly : SoftwareincMultiplayer.dll Syntax public class Meta : ModMeta Properties Name Declaration public override string Name { get; } Property Value Type Description String Overrides ModMeta.Name Methods ConstructOptionsScreen(RectTransform, Boolean) Declaration public override void ConstructOptionsScreen(RectTransform parent, bool inGame) Parameters Type Name Description UnityEngine.RectTransform parent Boolean inGame Overrides ModMeta.ConstructOptionsScreen(UnityEngine.RectTransform, System.Boolean)"
+  },
+  "api/Multiplayer.html": {
+    "href": "api/Multiplayer.html",
+    "title": "Namespace Multiplayer | Software Inc. Multiplayer",
+    "keywords": "Namespace Multiplayer Classes Meta"
+  },
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "API Documentation | Software Inc. Multiplayer",
+    "keywords": "API Documentation"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Software Inc. Multiplayer | Software Inc. Multiplayer",
+    "keywords": "Software Inc. Multiplayer Unofficial multiplayer mod for Software Inc."
+  }
+}
