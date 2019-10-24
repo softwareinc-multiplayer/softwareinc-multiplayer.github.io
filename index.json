@@ -1,4 +1,14 @@
 {
+  "index.html": {
+    "href": "index.html",
+    "title": "Software Inc. Multiplayer | Software Inc. Multiplayer",
+    "keywords": "Software Inc. Multiplayer Unofficial multiplayer mod for Software Inc."
+  },
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "API Documentation | Software Inc. Multiplayer",
+    "keywords": "API Documentation"
+  },
   "api/Multiplayer.Meta.html": {
     "href": "api/Multiplayer.Meta.html",
     "title": "Class Meta | Software Inc. Multiplayer",
@@ -8,15 +18,5 @@
     "href": "api/Multiplayer.html",
     "title": "Namespace Multiplayer | Software Inc. Multiplayer",
     "keywords": "Namespace Multiplayer Classes Meta"
-  },
-  "api/index.html": {
-    "href": "api/index.html",
-    "title": "API Documentation | Software Inc. Multiplayer",
-    "keywords": "API Documentation"
-  },
-  "index.html": {
-    "href": "index.html",
-    "title": "Software Inc. Multiplayer | Software Inc. Multiplayer",
-    "keywords": "Software Inc. Multiplayer Unofficial multiplayer mod for Software Inc."
   }
 }
